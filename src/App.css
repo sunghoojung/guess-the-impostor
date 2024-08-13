@@ -1,0 +1,8 @@
+.my-gradient-background {
+    width: 1920px;
+    height: 724px;
+    position: absolute;
+    left: 0;
+    top: 86px;
+    background: linear-gradient(159.17deg, rgb(240, 45, 247), rgb(223, 22, 223) 25.702%  76.277%);
+}
