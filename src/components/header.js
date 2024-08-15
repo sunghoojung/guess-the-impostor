@@ -6,7 +6,7 @@ import PrimaryButton from './common/primaryButton.js';
 function Header(props) {
     return (
         <div>
-            <div className="flex flex-row justify-between items-center px-[24px] py-[8px] h-[86px] w-[1920px] bg-white">
+            <div className="flex flex-row justify-between items-center px-[24px] py-[8px] h-[86px] w-full bg-white shadow-[0_35px_60px_-15px_rgba(0,0,0,0.3)]">
                 <div>
                     <img src={amogus} alt="mainlogo" className = "h-[60px] w-[60px] bg-white"/>
                 </div>
