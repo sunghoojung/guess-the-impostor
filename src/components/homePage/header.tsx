@@ -1,6 +1,6 @@
-import PrimaryButton from "./common/primaryButton";
+import PrimaryButton from "../common/primaryButton";
 import React from "react";
-import amogus from "../assets/images/amogus.png";
+import amogus from "../../assets/images/amogus.png";
 
 interface HeaderProps {
   children?: React.ReactNode;
