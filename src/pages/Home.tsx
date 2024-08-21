@@ -7,12 +7,12 @@ import Video from "../components/homePage/video";
 
 const Home: React.FC = () => {
     return (
-      <div>
+      <>
         <Header> </Header>
         <Background> </Background>
         <Video> </Video>
         <Footer> </Footer>
-      </div>
+      </>
     );
   }
   
